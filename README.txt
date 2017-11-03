@@ -1,5 +1,3 @@
-/*
-
 github.com/gabr
 
 INFO q0 Learning materials in order:
@@ -23,4 +21,3 @@ INFO q3 Sources of news
 
 TODO q1 Finish reading docs
 
-*/
