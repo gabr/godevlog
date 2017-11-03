@@ -33,3 +33,28 @@ INFO q4 About printing int as binary.
 
 TODO q1 Finish reading docs
 
+TODO q5 Skills to acquire
+
+	Files operations
+		Open/Close
+	>	Write/Read text files
+		Write/Read binary files
+		Create/Move/Delete
+		Finding files - directories tree exploration
+	Strings manipulations
+		Create
+		Trim
+		Split
+		Replace
+		Substrings
+	Regular expressions
+	Network communication
+		tcp:
+			server
+			client
+		http:
+			server
+			client
+	WebApi	
+	WebSite
+
