@@ -19,5 +19,17 @@ INFO q2 Oficial language docs
 INFO q3 Sources of news
 	https://blog.golang.org/
 
+INFO q4 About printing int as binary.
+
+	The '%b' makes integer to be presented as binary string.
+	But it will not show leading zeros.
+
+	In order to pad resulted string, the number representing
+	width has to be putted before format char: '%8b'.
+	Unfortunately the default padding (even for binary) are
+	spaces. To used '0' padding prefix the format with '0'.
+
+	Result (eight zeros padded binary format): '%08b'
+
 TODO q1 Finish reading docs
 
