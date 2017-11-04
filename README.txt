@@ -35,6 +35,10 @@ TODO q1 Finish reading docs
 
 TODO q5 Skills to acquire (project name in brackets)
 
+	Testing (firstrecurrchar, ...)
+		https://golang.org/pkg/testing/
+	Benchmarks
+		https://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go
 	> Command line arguments
 		https://thenewstack.io/cli-command-line-programming-with-go/
 	Files operations
