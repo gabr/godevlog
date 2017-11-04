@@ -33,10 +33,12 @@ INFO q4 About printing int as binary.
 
 TODO q1 Finish reading docs
 
-TODO q5 Skills to acquire
+TODO q5 Skills to acquire (project name in brackets)
 
+	> Command line arguments
+		https://thenewstack.io/cli-command-line-programming-with-go/
 	Files operations
-		Open/Close
+		Open/Close (typedlog)
 	>	Write/Read text files
 		Write/Read binary files
 		Create/Move/Delete
@@ -45,9 +47,11 @@ TODO q5 Skills to acquire
 		Create
 		Trim
 		Split
+		Iterate chars/runes (firstrecurrchar)
 		Replace
 		Substrings
 	Regular expressions
+	DLL/libs imports
 	Network communication
 		tcp:
 			server
