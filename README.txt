@@ -39,11 +39,10 @@ TODO q5 Skills to acquire (project name in brackets)
 		https://golang.org/pkg/testing/
 	Benchmarks
 		https://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go
-	> Command line arguments
-		https://thenewstack.io/cli-command-line-programming-with-go/
+	Command line arguments (cliexample)
 	Files operations
 		Open/Close (typedlog)
-	>	Write/Read text files
+	>	Write/Read text files (gocat)
 		Write/Read binary files
 		Create/Move/Delete
 		Finding files - directories tree exploration
